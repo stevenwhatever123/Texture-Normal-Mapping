@@ -1,3 +1,11 @@
+This is my attempt on COMP5821M Geometric Processing from University of Leeds
+
+Video demonstration:  
+This code can run on University machine but have not tested for other platforms yet.  
+  
+Video demonstration: https://www.youtube.com/watch?v=UBebOFpiONI
+
+
 # README for code distributed for use in COMP 5821M 2021-22
 #
 #
